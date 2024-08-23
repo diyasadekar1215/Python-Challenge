@@ -1,0 +1,8 @@
+Financial Analysis
+----------------------------
+File Analyzed: /Users/diyasadekar/Downloads/Starter_Code 4/PyBank/Resources/budget_data.csv
+Total Months: 86
+Total: $22564198
+Average Change: -8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
